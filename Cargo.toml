@@ -1,0 +1,9 @@
+[package]
+name = "secure_user_register"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+argon2 = "0.5"
+rand = "0.8"
+password-hash = "0.5"
